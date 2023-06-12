@@ -1,0 +1,12 @@
+.aboutDiv {
+    height: 100vh;
+    background-color: var(--opacBlue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutContent {
+    text-align: center;
+    width: 700px;
+}

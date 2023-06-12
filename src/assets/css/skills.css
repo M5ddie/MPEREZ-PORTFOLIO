@@ -1,0 +1,19 @@
+.skillDiv {
+    height: 50vh;
+    background: linear-gradient(-180deg, var(--opacBlue) 0%, rgba(142, 133, 133, 0.5) 50%, white 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skillContent {
+    text-align: center;
+}
+
+.skillContent .col {
+    border: 1px solid var(--opacBlue);
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+}

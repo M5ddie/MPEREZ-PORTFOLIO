@@ -1,0 +1,31 @@
+.projectsDiv {
+    /* height: 100vh; */
+    background-color: var(--opacBlue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectsContent {
+    text-align: center;
+}
+
+.projectsContent .row {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.projectsContent .col {
+    /* border: 1px solid red; */
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.colTxt {
+    text-align: start;
+}
+
+.siteImg {
+    height: 300px;
+}

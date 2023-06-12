@@ -1,3 +1,8 @@
+:root {
+  --solidBlue:rgb(0, 116, 139);
+  --opacBlue:rgba(0, 116, 139, 0.651);
+}
+
 * {
   margin: 0;
   padding: 0;

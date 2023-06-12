@@ -1,0 +1,11 @@
+.heroDiv {
+    height: 100vh;
+    background: linear-gradient(-180deg, white 0%, rgba(142, 133, 133, 0.5) 50%, var(--opacBlue) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroContent {
+    text-align: center;
+}
