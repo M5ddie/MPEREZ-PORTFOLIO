@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 80px 50px;
 }
 
 .projectsContent {
@@ -11,11 +12,9 @@
 
 .projectsContent .row {
     margin: 0;
-    margin-bottom: 10px;
 }
 
 .projectsContent .col {
-    /* border: 1px solid red; */
     margin-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -26,5 +25,24 @@
 }
 
 .siteImg {
-    height: 300px;
+    max-height: 300px;
+}
+
+.techUsedDiv {
+    text-align: start;
+}
+
+.techUsedBtn {
+    color: azure;
+    text-shadow: 2px 2px 5px rgb(10, 10, 10);
+    background-color: var(--opacBlue);
+    border: 1px solid rgb(0, 77, 107);
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.techUsedBtn:hover {
+    cursor: default;
 }

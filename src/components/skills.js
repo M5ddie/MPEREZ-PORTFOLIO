@@ -5,7 +5,7 @@ const SkillsMP = () => {
     return (
         <div id="skills" className="skillDiv">
             <div className="row skillContent">
-                <h3 className="pb-5">Skills Highlight</h3>
+                <h3 className="pb-4">Skills Highlight</h3>
                     <div className="col me-5">
                         HTML
                     </div>
