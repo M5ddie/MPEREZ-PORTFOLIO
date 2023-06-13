@@ -1,3 +1,10 @@
 .navDiv {
-    background-color: var(--solidBlue);
+    background-color: var(--grayBlue);
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.navLink {
+    color: white;
 }

@@ -16,8 +16,8 @@ function App() {
       <HeroMP/>
       <ProfileMP/>
       <SkillsMP/>
-      <WorkExp/>
       <ProjectExp/>
+      <WorkExp/>
     </div>
   );
 }

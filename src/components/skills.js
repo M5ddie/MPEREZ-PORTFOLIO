@@ -5,26 +5,26 @@ const SkillsMP = () => {
     return (
         <div id="skills" className="skillDiv">
             <div className="row skillContent">
-                <h3>My Skills</h3>
-                    <div className="col">
+                <h3 className="pb-5">Skills Highlight</h3>
+                    <div className="col me-5">
                         HTML
                     </div>
-                    <div className="col">
+                    <div className="col me-5">
                         CSS
                     </div>
-                    <div className="col">
+                    <div className="col me-5">
                         JavaScript
                     </div>
-                    <div className="col">
-                        bootstrap
+                    <div className="col me-5">
+                        Bootstrap
                     </div>
-                    <div className="col">
+                    <div className="col me-5">
                         ReactJS
                     </div>
-                    <div className="col">
+                    <div className="col me-5">
                         MySQL
                     </div>
-                    <div className="col">
+                    <div className="col me-5">
                         EmailJS
                     </div>
                     <div className="col">

@@ -1,7 +1,10 @@
+// styling
+import "../assets/css/workExp.css";
+
 
 const WorkExp = () => {
     return (
-        <div id="workExp">
+        <div id="workExp" className="workDiv">
             <h3>My Work Experience</h3>
             <h5>Analyst Programmer</h5>
             <h6>AIG Shared Services, Taguig City, Philippines</h6>

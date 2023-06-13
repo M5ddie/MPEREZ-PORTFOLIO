@@ -1,6 +1,5 @@
 .projectsDiv {
-    /* height: 100vh; */
-    background-color: var(--opacBlue);
+    background-color: var(--grayBlue);
     display: flex;
     justify-content: center;
     align-items: center;
